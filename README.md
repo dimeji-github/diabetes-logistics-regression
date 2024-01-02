@@ -1,6 +1,9 @@
 ## Overview
 This repository contains code and documentation for a logistic regression model designed to classify patients as either diabetic or non-diabetic based on specific input variables. The aim is to provide healthcare professionals and data scientists with a tool that can assist in early diagnosis and risk assessment for diabetes.
 
+## Data Source
+The data was obtained from Kaggle.
+
 ## Features
 Pregnancies - Number of times pregnant
 
